@@ -13,6 +13,6 @@
         <input type="text" name="q" id="myInput" class="myClass">
         <input type="submit">
     </form>
-
+    </head>
 </body>
 </html>
